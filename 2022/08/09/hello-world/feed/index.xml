@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="http://eng-farooq.github.io/www.Farooq.FA/2022/08/09/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://eng-farooq.github.io/www.Farooq.FA/2022/08/09/hello-world/</link>
+	<atom:link href="/https://eng-farooq.github.io/www.Farooq.FA/2022/08/09/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://eng-farooq.github.io/www.Farooq.FA/2022/08/09/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 09 Aug 2022 04:35:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>http://eng-farooq.github.io/www.Farooq.FA/2022/08/09/hello-world/#comment-1</link>
+		<link>/https://eng-farooq.github.io/www.Farooq.FA/2022/08/09/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Tue, 09 Aug 2022 04:35:11 +0000</pubDate>
-		<guid isPermaLink="false">http://eng-farooq.github.io/www.Farooq.FA/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/https://eng-farooq.github.io/www.Farooq.FA/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
