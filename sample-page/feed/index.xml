@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="http://eng-farooq.github.io/www.Farooq.FA/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://eng-farooq.github.io/www.Farooq.FA</link>
+	<atom:link href="/https://eng-farooq.github.io/www.Farooq.FA/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://eng-farooq.github.io/www.Farooq.FA</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 09 Aug 2022 04:35:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
